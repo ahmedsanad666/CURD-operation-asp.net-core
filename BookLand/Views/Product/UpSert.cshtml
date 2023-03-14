@@ -1,0 +1,127 @@
+﻿@model Product
+@{
+    ViewData["title"] = "Product Form";
+}
+
+
+
+<div class="container">
+     <h1 class="text-center">@(Model.Id != 0 ? "Update" : "Create") Book info Page</h1>
+
+     <hr />
+     <div>
+        <form ethod="post" asp-action="UpSert" enctype="multipart/form-data">
+            <input asp-for="Id" hidden />
+            <input asp-for="ImagUrl" hidden />
+             <div class="form-control">
+                 <label asp-for="Name"></label>
+                 <input type="text" asp-for="Name"/>
+                 <span class="text-danger" asp-validation-for="Name"></span>
+             </div>
+             @*...........................................................*@  
+             <div class="form-control">
+                 <label asp-for="Description"></label>
+               <textarea asp-for="Description" rows="3" class="form-control"></textarea>
+                <span class="text-danger" asp-validation-for="Description"></span>
+             </div>
+             @*...........................................................*@ 
+             <div class="form-control">
+                 <label asp-for="ISBN"></label>
+                <input type="text" asp-for="ISBN" />
+                <span class="text-danger" asp-validation-for="ISBN"></span>
+             </div>
+             @*...........................................................*@ 
+             <div class="form-control">
+                 <label asp-for="Author"></label>
+                <input type="text" asp-for="Author" />
+                <span class="text-danger" asp-validation-for="Author"></span>
+             </div>
+             @*...........................................................*@  
+             <div class="form-control">
+                <label asp-for="PriceList"></label>
+                <input type="text" asp-for="PriceList" />
+                <span class="text-danger" asp-validation-for="PriceList"></span>
+             </div>
+             @*...........................................................*@  
+             <div class="form-control">
+                <label asp-for="Price"></label>
+                <input type="text" asp-for="Price" />
+                <span class="text-danger" asp-validation-for="Price"></span>
+             </div>
+             @*...........................................................*@  
+             <div class="form-control">
+                <label asp-for="Price50"></label>
+                <input type="text" asp-for="Price50" />
+                <span class="text-danger" asp-validation-for=" Price50"></span>
+             </div>
+             @*...........................................................*@  
+             <div class="form-control">
+                <label asp-for="Price100"></label>
+                <input type="text" asp-for="Price100" />
+                <span class="text-danger" asp-validation-for="Price100" ></span>
+             </div>
+             @*...........................................................*@  <div class="form-control">
+                <label asp-for="ImagUrl"></label>
+                <input id="imgBox" type="file" name="file" asp-for="ImagUrl" />
+               
+             </div>
+             @*...........................................................*@  
+             <div class="form-control">
+                 <label asp-for="CategoryId"></label>
+                <select asp-for="CategoryId "  asp-items="ViewBag.CategoryList"> 
+                    <option disabled selected>--select Category</option>
+                </select>
+                <span class="text-danger" asp-validation-for="CategoryId"></span>
+             </div>
+             @*...........................................................*@  <div class="form-control">
+                 <label asp-for="CoverTypeId"></label>
+                <select asp-for="CoverTypeId " asp-items="@(ViewData["CoverTypeList"] as IEnumerable<SelectListItem>)">
+                    <option disabled selected>--select cover</option>
+                </select>
+                <span class="text-danger" asp-validation-for="CoverTypeId"></span>
+             </div>
+             @*...........................................................*@  
+               
+             
+            @if(Model.Id != 0)
+            {
+
+                <button  type="submit">Update  </button>
+            }
+            else
+            {
+
+                <button onclick="return ValidateInput()" type="submit">Create  </button>
+            }
+             
+         </form>
+     </div>
+
+</div>
+
+
+ @section Scripts{
+                 @{
+        <partial name="_ValidationScriptsPartial" />
+
+        
+                 }
+                 <script>
+        function ValidateInput (){
+
+            let imgInput = document.getElementById("imgBox").value;
+            console.log();
+        if(imgInput == ""){
+                    
+                                Swal.fire({
+                      icon: 'error',
+                      title: 'Oops...',
+                      text: 'Something went wrong!',
+                      footer: '<a href="">Why do I have this issue?</a>'
+                    });
+                        return false;
+        }
+        return true;
+        }
+                 </script>
+}

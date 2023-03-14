@@ -1,0 +1,373 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookLand.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookLand.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\headerBg.jpeg",
+      "PackagePath": "staticwebassets\\images\\headerBg.jpeg"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\pexels-ivo-rainha-1290141.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-ivo-rainha-1290141.jpg"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\products\\277c387d-5b8a-49e5-a9a8-6f911f62e473.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\277c387d-5b8a-49e5-a9a8-6f911f62e473.jpg"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\products\\28e0a471-515b-42ac-ad4f-e05227eef095.png",
+      "PackagePath": "staticwebassets\\images\\products\\28e0a471-515b-42ac-ad4f-e05227eef095.png"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\products\\29a6c596-1fe0-442b-a44e-6e0634aebad2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\29a6c596-1fe0-442b-a44e-6e0634aebad2.jpg"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\products\\325556f9-dc11-4641-ba93-968e5704dedb.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\325556f9-dc11-4641-ba93-968e5704dedb.jfif"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\products\\42f8d81a-66b3-4827-ab6e-6463f338cc22.png",
+      "PackagePath": "staticwebassets\\images\\products\\42f8d81a-66b3-4827-ab6e-6463f338cc22.png"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\products\\63031d32-1c87-4825-8920-9824d2e341d2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\63031d32-1c87-4825-8920-9824d2e341d2.jpg"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\products\\65ae9b02-c0ea-4999-b8cc-bd27d7adf8ae.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\65ae9b02-c0ea-4999-b8cc-bd27d7adf8ae.jpg"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\products\\65d1102a-5f6d-4cab-b9b4-bda64a83c3f1.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\65d1102a-5f6d-4cab-b9b4-bda64a83c3f1.jfif"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\products\\6969983e-c872-447c-ade7-d288dfc934a4.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\6969983e-c872-447c-ade7-d288dfc934a4.jfif"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\products\\6a65acbe-37b3-40b2-9afa-1b033f78e30d.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\6a65acbe-37b3-40b2-9afa-1b033f78e30d.jfif"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\products\\6b380de6-7162-40e8-bb5c-8fe6030506ba.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\6b380de6-7162-40e8-bb5c-8fe6030506ba.jfif"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\products\\6b910888-c6eb-44e0-828e-4908bdc5dd2c.png",
+      "PackagePath": "staticwebassets\\images\\products\\6b910888-c6eb-44e0-828e-4908bdc5dd2c.png"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\products\\771a3461-7971-4a01-a64a-5159d9be6e0e.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\771a3461-7971-4a01-a64a-5159d9be6e0e.jpg"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\products\\87961fdf-f944-4f22-8195-183703a81714.png",
+      "PackagePath": "staticwebassets\\images\\products\\87961fdf-f944-4f22-8195-183703a81714.png"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\products\\9722a457-7676-492f-96d4-0fdd9af2a5c7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\9722a457-7676-492f-96d4-0fdd9af2a5c7.jpg"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\products\\b11e5a85-cd2b-4ba9-af5b-e52b46f85952.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\b11e5a85-cd2b-4ba9-af5b-e52b46f85952.jfif"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\products\\badb6ef5-2850-4c10-90e1-d934c569718b.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\badb6ef5-2850-4c10-90e1-d934c569718b.jfif"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\products\\ca4c78de-1263-4b8d-b3d9-e7d47467fa22.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\ca4c78de-1263-4b8d-b3d9-e7d47467fa22.jfif"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\products\\cf4b0192-46c6-4808-bc8b-773289b3cd04.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\cf4b0192-46c6-4808-bc8b-773289b3cd04.jfif"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\products\\e1631439-e304-4f58-8a76-6f484efd42c6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\e1631439-e304-4f58-8a76-6f484efd42c6.jpg"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\products\\ebcf4326-a64b-4e8a-a8ab-04516691ddc8.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\ebcf4326-a64b-4e8a-a8ab-04516691ddc8.jfif"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\images\\products\\f48053f8-77de-4fef-8737-cba9a9120b60.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\f48053f8-77de-4fef-8737-cba9a9120b60.jpg"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\js\\Slider.js",
+      "PackagePath": "staticwebassets\\js\\Slider.js"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\asp work\\BookLand\\BookLand\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BookLand.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BookLand.props",
+      "PackagePath": "build\\BookLand.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BookLand.props",
+      "PackagePath": "buildMultiTargeting\\BookLand.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BookLand.props",
+      "PackagePath": "buildTransitive\\BookLand.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

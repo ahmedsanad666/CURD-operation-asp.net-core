@@ -1,0 +1,12 @@
+C:\asp work\BookLand\BookLand.Models\bin\Debug\net6.0\BookLand.Models.deps.json
+C:\asp work\BookLand\BookLand.Models\bin\Debug\net6.0\BookLand.Models.dll
+C:\asp work\BookLand\BookLand.Models\bin\Debug\net6.0\BookLand.Models.pdb
+C:\asp work\BookLand\BookLand.Models\obj\Debug\net6.0\BookLand.Models.csproj.AssemblyReference.cache
+C:\asp work\BookLand\BookLand.Models\obj\Debug\net6.0\BookLand.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\asp work\BookLand\BookLand.Models\obj\Debug\net6.0\BookLand.Models.AssemblyInfoInputs.cache
+C:\asp work\BookLand\BookLand.Models\obj\Debug\net6.0\BookLand.Models.AssemblyInfo.cs
+C:\asp work\BookLand\BookLand.Models\obj\Debug\net6.0\BookLand.Models.csproj.CoreCompileInputs.cache
+C:\asp work\BookLand\BookLand.Models\obj\Debug\net6.0\BookLand.Models.dll
+C:\asp work\BookLand\BookLand.Models\obj\Debug\net6.0\refint\BookLand.Models.dll
+C:\asp work\BookLand\BookLand.Models\obj\Debug\net6.0\BookLand.Models.pdb
+C:\asp work\BookLand\BookLand.Models\obj\Debug\net6.0\ref\BookLand.Models.dll

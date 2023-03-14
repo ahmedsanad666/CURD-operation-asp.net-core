@@ -1,0 +1,8 @@
+﻿@model CoverType
+
+<form method="post" asp-action="Delete">    
+    <input asp-for="Id" hidden />
+    <input type="text" disabled asp-for="Name" />
+  
+    <button type="submit">delete</button>
+</form>

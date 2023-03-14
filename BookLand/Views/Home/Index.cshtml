@@ -1,0 +1,124 @@
+﻿@model IEnumerable<Product>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="header">
+    
+    <div class="slider-sec w-50 d-none d-md-block">
+        <div class="owl-carousel owl-theme ">
+   
+            @foreach(var el in Model)
+            {
+                
+   <div class="item d-flex flex-column">
+        <div>
+                    <img src="@el.ImagUrl" />
+                </div>
+    
+                <div class="info px-2 text-center">
+               <h5>@el.Name</h5>
+               <h6>@el.Author</h6>
+               
+
+                    
+                </div>
+    </div>
+   
+            }
+  
+
+  
+   
+   
+            
+  
+  
+ 
+</div>
+
+    </div>
+
+</div>
+
+
+<section class="recent-book">
+
+
+<div class="container  px-5   ">
+    
+    <h1 class="text-center mb-5" >Resent Books</h1>
+
+
+    <div class="py-3">
+       
+        <div class="row">
+            @foreach(var el in Model)
+            {
+                
+            <div class="col col-md-3 rounded-3 ">
+                <div class="book-card text-center">
+
+                    <img class="mb-3" src="@el.ImagUrl"/>
+
+                    <div class="book-info d-flex flex-column ">
+                                <span> <strong>Title : </strong>@el.Name</span>
+                                <span> <strong>ISBN : </strong>@el.ISBN</span>
+
+                                <span> <strong>Author : </strong>@el.Author</span>
+                                <span> <strong>Category : </strong>@el.Category.Name</span>
+                                <span> <strong>Price : </strong>@el.Price</span>
+                         
+                     
+
+                    </div>
+
+                </div>
+            </div>
+            }
+        </div>
+
+        
+    </div>
+        <div class="seeAll text-center">
+
+        <a  asp-controller="Product" asp-action="AllBooks">See all</a>
+    </div>
+    
+
+</div>
+</section>
+
+
+
+
+
+
+
+@section scripts{
+
+
+    <script>
+        $(document).ready(function () {
+            
+          
+        $('.owl-carousel').owlCarousel({
+            loop: false,
+            margin: 10,
+            nav: true,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                600: {
+                    items: 3
+                },
+                1000: {
+                    items: 5
+                }
+            }
+        })
+
+        });
+    </script>
+}

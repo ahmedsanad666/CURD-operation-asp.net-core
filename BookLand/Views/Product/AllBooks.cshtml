@@ -1,0 +1,57 @@
+﻿
+@model IEnumerable<Product>
+
+    @{
+        ViewData["title"] = "All Books";
+    }
+
+
+    <div >
+     
+
+    <section class="All Books">
+
+
+        <div class="container  px-5   ">
+
+            <h1 class="text-center mb-5">All Books</h1>
+
+
+            <div class="py-3">
+
+                <div class="row">
+                    @foreach (var el in Model)
+                    {
+
+                        <div class="col col-md-3 rounded-3 ">
+                            <div class="book-card text-center">
+
+                                <img class="mb-3" src="@el.ImagUrl" />
+
+                                <div class="book-info d-flex flex-column ">
+                                    <span> <strong>Title : </strong>@el.Name</span>
+                                    <span> <strong>ISBN : </strong>@el.ISBN</span>
+
+                                    <span> <strong>Author : </strong>@el.Author</span>
+                                    <span> <strong>Category : </strong>@el.Category.Name</span>
+                                    <span> <strong>Price : </strong>@el.Price</span>
+
+
+
+                                </div>
+
+                            </div>
+                        </div>
+                    }
+                </div>
+
+
+             
+            </div>
+
+
+        </div>
+    </section>
+
+
+    </div>

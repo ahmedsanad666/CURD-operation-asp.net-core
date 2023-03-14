@@ -1,0 +1,270 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+/*
+body {
+    margin-bottom: 60px;
+ 
+}*/
+a{
+    text-decoration:none;
+    color:white !important;
+
+}
+ul{
+    list-style:none;
+}
+
+ul li{
+   font-size:16px;
+}
+
+/*
+    home page navbar
+*/
+
+/*navbar*/
+
+
+
+.navbar {
+    background: #20262E;
+    box-shadow:0px 1px 11px 0px aliceblue;
+}
+.navbar a{
+    color:white !important;
+}
+.navbar-brand{
+    font-weight:bold;
+    letter-spacing:2px;
+    font-size:25px; 
+    margin-left:5px;    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:aliceblue !important; 
+}
+
+header{
+    position:relative;
+}
+
+.quote-sec {
+    position: absolute;
+    width: 40%;
+    height: 50%;
+
+    top: 30%;
+    left: 4%;
+    color: white;
+    font-family: fantasy;
+    color: #B2B2B2;
+}
+
+.logo{
+    
+    height:50px;
+    object-fit:cover;
+
+}
+
+.navbar form {
+    position:relative;
+    width:40%;
+  
+}
+.navbar input{
+    border-radius:30px;
+    box-shadow:0px 0px 4px 2px #808080;
+    padding:10px 20px;
+}
+
+.navbar form button{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:none;
+    outline:none;
+    border:none;
+    position:absolute;
+   cursor:pointer;
+   right:1.5rem;
+   top:8px;    
+}
+.navbar form i{
+
+}
+
+
+/*header ................*/
+
+header.active{
+  
+   
+
+    background:url("../images/headerBg.jpeg")   ;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+min-height:100vh;
+
+ 
+
+
+}
+/*
+    end home page
+*/
+
+
+/*category page*/
+
+/*create new*/
+
+.createNew{
+    position:relative;
+    min-height:75vh;
+
+    background:url(../images/pexels-ivo-rainha-1290141.jpg) 50% 50%;
+    background-repeat:no-repeat;
+    background-size:cover;
+    backdrop-filter:blur(.5);
+    background-attachment:fixed;
+    z-index:9;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    
+}
+
+    .createNew::after{
+        content:'';
+        position:absolute;
+        width:100%;
+        height:100%;
+        top:0;
+        left:0;
+        background-color:rgba(0,0,0,.4);
+        z-index:-1;    ;    
+            
+
+
+    }
+
+    .createNew h1{
+        color:white;
+
+    }
+    .createNew form{
+        width:60%;
+        background:#808080;
+        border-radius:25px;
+        padding:1.4rem .6rem;
+    }
+
+
+
+    /*...................................................slider styles*/
+.header {
+    position: relative;
+  
+}
+    .slider-sec{
+
+        position:absolute;
+       
+        min-height:350px;
+        z-index:9999;
+        right:1.5rem;
+        top:-10rem;
+
+
+
+    }
+    .owl-carousel{
+        
+        height:100%;
+    }
+
+    .owl-carousel img{
+        width:90px;
+        object-fit:cover;
+        border-radius:20px;
+    }
+    /*...................................................slider styles*/
+
+
+    /*recent book...............*/
+.recent-book {
+    background: #FFFBEB; padding-top:15rem;
+    min-height:150vh;
+}
+    .recent-book h1{
+        margin-top:2rem;
+    }
+
+    .book-card{
+       margin-bottom:1rem;
+    }
+
+    .book-card img{
+        width:200px;
+        object-fit:cover;
+        border-radius:15px;
+
+    }
+
+    /*recent book...............*/
+
+
+
+
+    /*footer*/
+
+footer {
+    background: #20262E;
+    line-height:1.8rem !important;
+    position:relative !important;
+    padding: 20px 0;
+}
+
+footer ul li a{
+    font-size: 16px;
+    transition:1s all linear;
+}
+
+footer a:hover{
+    color:aqua;
+}
+
+footer input{
+    outline:none;
+    border-radius:30px;
+    border:none;
+}
+footer button{
+    border:none;
+    outline:none;
+    border-radius:30px;
+}
+    /*footer*/
+
+
+
+    /* all books*/
+
+    .seeAll a{
+        color:white;
+        background:red;
+        padding:.7rem 1.4rem;
+        border-radius:20px;
+    }

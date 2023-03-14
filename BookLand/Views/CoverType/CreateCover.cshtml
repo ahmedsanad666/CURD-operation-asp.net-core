@@ -1,0 +1,11 @@
+﻿@model CoverType
+
+
+
+
+<form method="post">
+
+    <input  type="text" placeholder="name"  asp-for="Name" />
+    <span asp-validation-for="Name" class="text-danger"></span>
+   <button type="submit">submit</button> 
+</form>

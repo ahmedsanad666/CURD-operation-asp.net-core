@@ -1,0 +1,15 @@
+C:\asp work\BookLand\BookLand.DataAccess\obj\Debug\net6.0\BookLand.DataAccess.csproj.AssemblyReference.cache
+C:\asp work\BookLand\BookLand.DataAccess\obj\Debug\net6.0\BookLand.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\asp work\BookLand\BookLand.DataAccess\obj\Debug\net6.0\BookLand.DataAccess.AssemblyInfoInputs.cache
+C:\asp work\BookLand\BookLand.DataAccess\obj\Debug\net6.0\BookLand.DataAccess.AssemblyInfo.cs
+C:\asp work\BookLand\BookLand.DataAccess\obj\Debug\net6.0\BookLand.DataAccess.csproj.CoreCompileInputs.cache
+C:\asp work\BookLand\BookLand.DataAccess\bin\Debug\net6.0\BookLand.DataAccess.deps.json
+C:\asp work\BookLand\BookLand.DataAccess\bin\Debug\net6.0\BookLand.DataAccess.dll
+C:\asp work\BookLand\BookLand.DataAccess\bin\Debug\net6.0\BookLand.DataAccess.pdb
+C:\asp work\BookLand\BookLand.DataAccess\bin\Debug\net6.0\BookLand.Models.dll
+C:\asp work\BookLand\BookLand.DataAccess\bin\Debug\net6.0\BookLand.Models.pdb
+C:\asp work\BookLand\BookLand.DataAccess\obj\Debug\net6.0\BookLand.DataAccess.csproj.CopyComplete
+C:\asp work\BookLand\BookLand.DataAccess\obj\Debug\net6.0\BookLand.DataAccess.dll
+C:\asp work\BookLand\BookLand.DataAccess\obj\Debug\net6.0\refint\BookLand.DataAccess.dll
+C:\asp work\BookLand\BookLand.DataAccess\obj\Debug\net6.0\BookLand.DataAccess.pdb
+C:\asp work\BookLand\BookLand.DataAccess\obj\Debug\net6.0\ref\BookLand.DataAccess.dll

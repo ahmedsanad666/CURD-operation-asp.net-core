@@ -1,0 +1,21 @@
+﻿@model IEnumerable<CoverType>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+
+<a asp-controller="CoverType" asp-action="CreateCover">new </a>
+<ul>
+
+    @foreach(var el in Model)
+    {
+        <li>@el.Name  
+
+            <a asp-controller="CoverType" asp-action="Edit" asp-route-id="@el.Id">edit</a>
+            <a asp-controller="CoverType" asp-action="Delete" asp-route-id="@el.Id">delete</a>
+        </li>
+
+    }
+</ul>
